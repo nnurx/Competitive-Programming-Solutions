@@ -1,4 +1,3 @@
-package l3homework;
 import java.util.*;
 import java.io.*;
 public class CCCRobothieves {
