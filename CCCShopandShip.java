@@ -1,8 +1,4 @@
-package l3homework;
 import java.util.*;
-
-import l3homework.VM7WCHelloOfficer.pair;
-
 import java.io.*;
 
 public class CCCShopandShip {
